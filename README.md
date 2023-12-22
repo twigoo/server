@@ -1,6 +1,6 @@
-**PT/BR:**
 
-# Projeto Twigoo
+
+# Projeto Twigoo - **PT/BR**
 
 ## Visão Geral
 
@@ -63,9 +63,8 @@ Sinta-se à vontade para contribuir com o Twigoo e fazer parte da comunidade de 
 
 ---
 
-**EN:**
 
-# Twigoo Project
+# Twigoo Project - **EN**
 
 ## Overview
 
