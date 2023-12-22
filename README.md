@@ -62,10 +62,6 @@ Para começar com o Twigoo, siga estas etapas:
 Sinta-se à vontade para contribuir com o Twigoo e fazer parte da comunidade de desenvolvedores que moldam o futuro deste emocionante projeto!
 
 ---
-<p align="center">
-  <img src="https://i.pinimg.com/originals/76/70/72/767072baa821ca8414a163220e53bc19.jpg" height="300" alt="Imagem 2">
-</p>
----
 
 **EN:**
 
